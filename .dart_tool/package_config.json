@@ -111,7 +111,7 @@
     },
     {
       "name": "flutter",
-      "rootUri": "file:///home/nayan/development/flutter/packages/flutter",
+      "rootUri": "file:///home/nayan/snap/flutter/common/flutter/packages/flutter",
       "packageUri": "lib/",
       "languageVersion": "3.7"
     },
@@ -129,7 +129,7 @@
     },
     {
       "name": "flutter_test",
-      "rootUri": "file:///home/nayan/development/flutter/packages/flutter_test",
+      "rootUri": "file:///home/nayan/snap/flutter/common/flutter/packages/flutter_test",
       "packageUri": "lib/",
       "languageVersion": "3.7"
     },
@@ -147,7 +147,7 @@
     },
     {
       "name": "flutter_web_plugins",
-      "rootUri": "file:///home/nayan/development/flutter/packages/flutter_web_plugins",
+      "rootUri": "file:///home/nayan/snap/flutter/common/flutter/packages/flutter_web_plugins",
       "packageUri": "lib/",
       "languageVersion": "3.7"
     },
@@ -279,7 +279,7 @@
     },
     {
       "name": "sky_engine",
-      "rootUri": "file:///home/nayan/development/flutter/bin/cache/pkg/sky_engine",
+      "rootUri": "file:///home/nayan/snap/flutter/common/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
       "languageVersion": "3.7"
     },
@@ -466,7 +466,7 @@
   ],
   "generator": "pub",
   "generatorVersion": "3.8.1",
-  "flutterRoot": "file:///home/nayan/development/flutter",
+  "flutterRoot": "file:///home/nayan/snap/flutter/common/flutter",
   "flutterVersion": "3.32.5",
   "pubCache": "file:///home/nayan/.pub-cache"
 }
