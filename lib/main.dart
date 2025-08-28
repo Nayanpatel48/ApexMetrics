@@ -51,6 +51,8 @@ class MyHomePage extends StatelessWidget {
 
 //1. Top navigation bar
 class TopNavBar extends StatelessWidget {
+  const TopNavBar({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Container(
@@ -97,6 +99,8 @@ class TopNavBar extends StatelessWidget {
 
 //2. Hero section
 class HeroSection extends StatelessWidget {
+  const HeroSection({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Container(
@@ -152,6 +156,8 @@ class HeroSection extends StatelessWidget {
 
 // 3. The Menu Highlights Section
 class MenuHighlights extends StatelessWidget {
+  const MenuHighlights({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Container(
@@ -241,6 +247,8 @@ class MenuHighlights extends StatelessWidget {
 
 // 4. The Footer
 class Footer extends StatelessWidget {
+  const Footer({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Container(
