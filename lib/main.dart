@@ -33,7 +33,7 @@ class MyHomePage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
+    return const Scaffold(
       //we'll use single child scroll view to make column scrolable
       body: SingleChildScrollView(
         child: Column(
