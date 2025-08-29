@@ -1,7 +1,11 @@
 [build]
-  command = "flutter build web"
+  # This is the correct command. It runs the script that installs Flutter.
+  command = "chmod +x build.sh && ./build.sh"
+  
+  # This tells Netlify where your final website files are.
   publish = "build/web"
 
 [build.environment]
-  FLUTTER_VERSION = "3.32.5" # Check your Flutter version with `flutter --version`
+  # You can keep these environment variables.
+  FLUTTER_VERSION = "3.22.2" # Make sure this matches the version in build.sh
   NODE_VERSION = "20"
