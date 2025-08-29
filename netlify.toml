@@ -4,3 +4,4 @@
 
 [build.environment]
   FLUTTER_VERSION = "3.32.5" # Check your Flutter version with `flutter --version`
+  NODE_VERSION = "20"
